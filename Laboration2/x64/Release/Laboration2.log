@@ -1,0 +1,17 @@
+﻿  main.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\memory(2539): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  c:\users\david\source\repos\laboration2\laboration2\main.cpp(25): note: see reference to function template instantiation 'std::unique_ptr<Rectangle,std::default_delete<_Ty>> std::make_unique<Rectangle,int,int,0>(int &&,int &&)' being compiled
+          with
+          [
+              _Ty=Rectangle
+          ]
+  Generating code
+  0 of 292 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Laboration2.vcxproj -> C:\Users\David\source\repos\Laboration2\x64\Release\Laboration2.exe
